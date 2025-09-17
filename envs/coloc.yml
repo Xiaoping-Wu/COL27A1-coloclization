@@ -1,0 +1,12 @@
+name: coloc
+channels:
+    - bioconda
+    - conda-forge
+dependencies:
+    - r-coloc
+    - r-data.table
+    - R=4.0
+    - zlib=1.2.11
+    - r-dplyr
+    - r-r.utils
+    - r-bit64
